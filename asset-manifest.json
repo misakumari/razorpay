@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/razorpay/static/css/main.825af106.chunk.css",
+    "main.js": "/razorpay/static/js/main.287871f9.chunk.js",
+    "main.js.map": "/razorpay/static/js/main.287871f9.chunk.js.map",
+    "runtime-main.js": "/razorpay/static/js/runtime-main.4a5ee642.js",
+    "runtime-main.js.map": "/razorpay/static/js/runtime-main.4a5ee642.js.map",
+    "static/js/2.58a48485.chunk.js": "/razorpay/static/js/2.58a48485.chunk.js",
+    "static/js/2.58a48485.chunk.js.map": "/razorpay/static/js/2.58a48485.chunk.js.map",
+    "static/js/3.d66771d8.chunk.js": "/razorpay/static/js/3.d66771d8.chunk.js",
+    "static/js/3.d66771d8.chunk.js.map": "/razorpay/static/js/3.d66771d8.chunk.js.map",
+    "index.html": "/razorpay/index.html",
+    "static/css/main.825af106.chunk.css.map": "/razorpay/static/css/main.825af106.chunk.css.map",
+    "static/js/2.58a48485.chunk.js.LICENSE.txt": "/razorpay/static/js/2.58a48485.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/razorpay/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a5ee642.js",
+    "static/js/2.58a48485.chunk.js",
+    "static/css/main.825af106.chunk.css",
+    "static/js/main.287871f9.chunk.js"
+  ]
+}
